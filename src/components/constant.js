@@ -1,2 +1,0 @@
-export const AAP_ID=667526703
-export const SERVER_SECRET="f892ebcb38b421208aa2b3fb93d50f61"
